@@ -5,7 +5,7 @@ Distributed computing refers to a system where multiple computers (or nodes) wor
 
 >> Cluster: A cluster is a group of interconnected computers or servers that work together as a single system. Each computer in the cluster is called a node, and they collaborate to share workloads, provide redundancy, and improve performance.
 
->> Lead-Node Server: The lead-node (or master node) in a distributed system is responsible for managing the cluster. It coordinates tasks like assigning workloads to worker nodes, monitoring their health, and ensuring everything runs smoothly.
+** Lead-Node Server **: The lead-node (or master node) in a distributed system is responsible for managing the cluster. It coordinates tasks like assigning workloads to worker nodes, monitoring their health, and ensuring everything runs smoothly.
 
 >> Communication: Communication in distributed computing refers to how nodes in the cluster exchange data and instructions. It happens through network protocols and is crucial for synchronization, task distribution, and data sharing among nodes.
 
